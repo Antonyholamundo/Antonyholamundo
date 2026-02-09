@@ -1,7 +1,7 @@
-# Hola, soy Anthony
+# Hi, I am Anthony
 
-**Tecnólogo en Desarrollo Web
-**Desarrollo Web (Junior)**
+Web Development Technologist
+**Web Development (Junior)**
 ## My Skills Include
 
 <h4> Languages </h4>
